@@ -8,9 +8,9 @@ To run this project in the development mode, you'll need to have:
 ### Installing
 **Cloning the Repository**
 
-``$ git clone  ``
+``$ git clone https://github.com/Luzaidin/OSRM_Routes.git``
 
-``$ cd ``
+``$ cd OSRM_Routes ``
 
 **Installing dependencies**
 
@@ -23,6 +23,6 @@ To run this project in the development mode, you'll need to have:
 
 ## Built With
 
-- [Leaflet](http://project-osrm.org/) 
+- [Leaflet](https://leafletjs.com/) 
 - [OSRM](http://project-osrm.org/) 
 - [Express](http://expressjs.com/) 
